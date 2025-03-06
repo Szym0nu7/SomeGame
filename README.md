@@ -1,2 +1,2 @@
 # SomeGame
-A game project for a competition
+https://www.youtube.com/watch?v=fyzuDWGR0f4
